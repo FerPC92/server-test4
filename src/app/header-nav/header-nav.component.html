@@ -1,0 +1,13 @@
+<header>
+  <div class="categories" *ngFor="let element of this._mainService.categoriesList ; let i = index ">
+    <h2 class="cat-names" (click)="this._mainService.getSubCategories(element.id)">
+      {{element.name}}
+    </h2>
+  </div>
+
+   <div class="subcategories" *ngFor="let element of this._mainService.subCategoriesList ; let i = index ">
+    <a  routerLinkActive="sub-cat-names" [routerLink]="['/list', element.id]">
+      {{element.name}}
+    </a>
+  </div> 
+</header>

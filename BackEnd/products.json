@@ -1,0 +1,101 @@
+[{
+    "categoryId": 1,
+    "subCategoryId": 1,
+    "id": 1,
+    "name": "Givenchy",
+    "imageURL": "https://is4.fwrdassets.com/images/p/fw/z/OFFF-MS139_V1.jpg",
+    "price": 20,
+    "unit": "€",
+    "description": "Abstract Arrows Tee",
+    "sizes": ["S", "M", "L", "XL"]
+}, {
+    "categoryId": 1,
+    "subCategoryId": 1,
+    "id": 2,
+    "name": "OFF-WiTHE",
+    "imageURL": "https://is4.fwrdassets.com/images/p/fw/z/OFFF-MS140_V1.jpg",
+    "price": 18,
+    "unit": "€",
+    "description": "Mirko Artist Tee",
+    "sizes": ["S", "M", "L", "XL"]
+}, {
+    "categoryId": 1,
+    "subCategoryId": 1,
+    "id": 3,
+    "name": "Alchemist",
+    "imageURL": "https://is4.fwrdassets.com/images/p/fw/z/ALCF-MS17_V1.jpg",
+    "price": 25,
+    "unit": "€",
+    "description": "USA Born Tee",
+    "sizes": ["S", "M", "L", "XL"]
+}, {
+    "categoryId": 1,
+    "subCategoryId": 1,
+    "id": 4,
+    "name": "A.P.C",
+    "imageURL": "https://is4.fwrdassets.com/images/p/fw/z/APC-MS70_V1.jpg",
+    "price": 15,
+    "unit": "€",
+    "description": "Yukata Tee",
+    "sizes": ["S", "M", "L", "XL"]
+}, {
+    "categoryId": 1,
+    "subCategoryId": 2,
+    "id": 5,
+    "name": "testingSubCat",
+    "imageURL": "https://is4.fwrdassets.com/images/p/fw/z/OFFF-MS139_V1.jpg",
+    "price": 20,
+    "unit": "€",
+    "description": "Abstract Arrows Tee",
+    "sizes": ["S", "M", "L", "XL"]
+}, {
+    "categoryId": 1,
+    "subCategoryId": 2,
+    "id": 6,
+    "name": "testingSubCat",
+    "imageURL": "https://is4.fwrdassets.com/images/p/fw/z/OFFF-MS140_V1.jpg",
+    "price": 18,
+    "unit": "€",
+    "description": "Mirko Artist Tee",
+    "sizes": ["S", "M", "L", "XL"]
+}, {
+    "categoryId": 1,
+    "subCategoryId": 2,
+    "id": 7,
+    "name": "testingSubCat",
+    "imageURL": "https://is4.fwrdassets.com/images/p/fw/z/ALCF-MS17_V1.jpg",
+    "price": 25,
+    "unit": "€",
+    "description": "USA Born Tee",
+    "sizes": ["S", "M", "L", "XL"]
+}, {
+    "categoryId": 1,
+    "subCategoryId": 2,
+    "id": 8,
+    "name": "testingSubCat",
+    "imageURL": "https://is4.fwrdassets.com/images/p/fw/z/APC-MS70_V1.jpg",
+    "price": 15,
+    "unit": "€",
+    "description": "Yukata Tee",
+    "sizes": ["S", "M", "L", "XL"]
+}, {
+    "categoryId": 1,
+    "subCategoryId": 2,
+    "id": 9,
+    "name": "POST-PRODUCT-TEST",
+    "imageURL": "https://is4.fwrdassets.com/images/p/fw/z/APC-MS70_V1.jpg",
+    "price": 15,
+    "unit": "€",
+    "description": "Yukata Tee",
+    "sizes": ["S", "M", "L", "XL"]
+}, {
+    "categoryId": 1,
+    "subCategoryId": 2,
+    "id": 10,
+    "name": "Another-test",
+    "imageURL": "https://is4.fwrdassets.com/images/p/fw/z/APC-MS70_V1.jpg",
+    "price": 15,
+    "unit": "€",
+    "description": "Yukata Tee",
+    "sizes": ["S", "M", "L", "XL"]
+}]

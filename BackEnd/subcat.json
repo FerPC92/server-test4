@@ -1,0 +1,36 @@
+[{
+        "name": "T-Shirts",
+        "id": 1,
+        "categoryReferenceId": 1
+    },
+    {
+        "name": "Panths",
+        "id": 2,
+        "categoryReferenceId": 1
+    }, {
+        "name": "Polos",
+        "id": 3,
+        "categoryReferenceId": 1
+    }, {
+        "name": "Sweaters",
+        "id": 4,
+        "categoryReferenceId": 1
+    },{
+        "name": "WomanTestSubCat",
+        "id": 5,
+        "categoryReferenceId": 2
+    },
+    {
+        "name": "WomanTestSubCat",
+        "id": 6,
+        "categoryReferenceId": 2
+    }, {
+        "name": "WomanTestSubCat",
+        "id": 7,
+        "categoryReferenceId": 2
+    }, {
+        "name": "WomanTestSubCat",
+        "id": 8,
+        "categoryReferenceId": 2
+    }
+]
